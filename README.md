@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterZh6
 - 👀 I’m interested in Hiking, Cycling, Star Gazing, Travelling, and many other fantastic things
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and trying to contribute to the Apache Inlong community
 - ⚡ Fun fact: A big fan of decorating my room with various paintings including large photos, scenic posters bought from Spain and US, animie figures or even star atlas that glows at night
 
 <!---
